@@ -4,6 +4,7 @@ Telephone Billing System is developed In C++ QT. It has Little Functionality Whi
 
 ## Screenshot
 
-<img src="sc/pic3.PNG" alt="wireframe">
-<img src="sc/pic1.PNG" alt="wireframe">
-<img src="sc/pic2.PNG" alt="wireframe">
+| Screenshots  | Screenshots |
+| ------------- | ------------- |
+| <img src="/sc/pic3.PNG"> | <img src="/sc/pic1.PNG"> |
+| <img src="/sc/pic2.PNG">|

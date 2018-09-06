@@ -1,4 +1,4 @@
-# Telephone-Billing-System-C-Plus-Plus-QT
+# Telephone Billing System C++ QT
 
 Telephone Billing System is developed In C++ QT. It has Little Functionality Which shows Complete CURD Operation. SQLite Database Integration is Included in this project. It Has functionality like Login, Add Customer, delete a customer, Update customer, Generate bill With the help of Graphical user interface.
 
@@ -10,10 +10,6 @@ Telephone Billing System is developed In C++ QT. It has Little Functionality Whi
 | <img src="/sc/pic2.PNG">|
 
 ### Executable Project & Database Files are included in Project. (telephone.sqlite & telephone.exe)
-
-### Author
-
-Ajay Randhawa
 
 ## Donate
 If you appreciate that, please consider donating to the Developer.
